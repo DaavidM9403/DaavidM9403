@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/><a href="https://github.com/DaavidM9403">System Administor</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Security Professional</a>
+<h1>Hi, I'm David! <br/><a href="https://github.com/DaavidM9403">System Administor</a>, <a href="https://www.linkedin.com/in/name here/">IT Security Professional</a>
 
 <h2>👨‍💻 System administrator Projects:</h2>
 
