@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 System administrator Projects</h2>
 
-- [Building a Active directory home lab](https://github.com/DavTech/URL_IS_PLACED_HERE)
+- [Building a Active directory home lab](https://github.com/DaavidM9403/Building-a-Active-directory-home-lab/tree/main)
 
 <h2> Certifications </h2>
 
